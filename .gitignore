@@ -1,0 +1,10 @@
+/node_modules
+/venv
+/.pytest_cache
+/.idea
+/allure-report
+/allure-results
+/Tests/.pytest_cache
+__pycache__/
+*.bak
+/allure-results.rar

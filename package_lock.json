@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "appium-doctor": "^1.16.0",
+    "appium": "^1.22.3",
+    "appium-adb": "^8.18.0",
+    "appium-xcode": "^3.11.0",
+    "appium-support": "^2.55.0"
+  }
+}
